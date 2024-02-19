@@ -1,1 +1,1 @@
-# this is a new local clear repo
+# This is a new local repo
